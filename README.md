@@ -69,7 +69,7 @@ Help Queue is an application designed for a user to be able to create, read, upd
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [React](https://reactjs.org/)
-
+* [webpack](https://webpack.js.org/)
 ___________________________
 
 
